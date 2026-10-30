@@ -1,16 +1,13 @@
-## Hi there 👋
+## hi, yofinesseus here 👋
 
-<!--
-**yofinesseus/yofinesseus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Indonesia.
 
-Here are some ideas to get you started:
+- happier in a terminal than in an IDE
+- reach me at **@yofinesseus** on GitHub
+- shipping small and often
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yofinesseus&hide_border=true&theme=nightowl" alt="Commit streak" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yofinesseus&layout=compact&langs_count=8&hide_border=true&theme=nightowl" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/React-2dd4bf?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/SQLite-2dd4bf?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Python-2dd4bf?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-2dd4bf?style=for-the-badge&logoColor=white" alt="TypeScript" />
